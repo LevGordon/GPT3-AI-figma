@@ -1,4 +1,5 @@
 import React from 'react'
+import { Article, Brand, CTA, Feature, Navbar } from './components/index'
 
 function App() {
 
